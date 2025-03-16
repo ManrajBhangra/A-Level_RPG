@@ -11,7 +11,7 @@ end = False
 
 
 def receive_message(conn, client_list, end):
-    ##### recieve_message #######
+    ##### receive_message #######
     # Parameters :- conn, client_list: list, end:boolean
     # Return Type :- none
     # Purpose :- Has server receive messages from clients and send them to the other client
